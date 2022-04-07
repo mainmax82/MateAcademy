@@ -4,7 +4,751 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd0a89f-85bf-4a9f-b379-1de35508635d" name="Default Changelist" comment="" />
+    <list default="true" id="5cd0a89f-85bf-4a9f-b379-1de35508635d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ECKEL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SetOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/ConnectionManager/Connection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/ConnectionManager/ConnectionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Controller/Event.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex1_1/Ex1_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex2/Vector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex3/TestDebug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex5/Access.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex5/TestAccess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex6/Protect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/Ex6/ProtectedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseController/GreenhouseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseController/GreenhouseControls25$WaterMistOff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseController/GreenhouseControls25$WaterMistOn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseController/GreenhouseControls25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$Bell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$LightOff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$LightOn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$Restart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$Terminate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$ThermostatDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$ThermostatNight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$VentilationOff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$VentilationOn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$WaterOff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls$WaterOn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/GreenhouseControls/GreenhouseControls.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/PrintTest/PrintTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/debug/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/AccessControl/Ex1/debugoff/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CodeWar/RemoveCharacter/Accum/Accum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CodeWar/RemoveCharacter/FindOutlier/FindOutlier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CodeWar/RemoveCharacter/PhoneNumber/PhoneNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CodeWar/RemoveCharacter/QuarterOfTheYear/QuarterOfTheYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CodeWar/RemoveCharacter/RemoveCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CodeWar/RemoveCharacter/ReverseArray/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/BreakAndContinue/BreakAndContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/Credit/Credit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/Drinks/Drinks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/Ex4/Primes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/Ex6/IfElse3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/Ex7/SwitchCase1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/Ex9/FibonacciEx9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/WhileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Controlling/fizzbuzz/FizzBuzz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/CountDivisor/CountDivisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Amphibian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Characteristic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Description.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex10/Ex10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex10/GException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex10/HException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex21/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex21/BaseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex21/Derived.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex21/Ex21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/Ex25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/LevelOneException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/LevelThreeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex25/LevelTwoException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex26/Ex26.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Ex5/Ex5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/Frog17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/LivingCreature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/LostMesageFound19/HoHumException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/LostMesageFound19/LostMessageFound19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/LostMesageFound19/VeryImportantException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/BaseballException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/Foul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/Inning.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/PopFoul.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/RainedOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/Storm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/StormException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/StormyInning20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/Strike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/ThrownFromGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ErrorHandling/StormyInning20/UmpireArgument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/BankTeller/BankTeller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/BankTeller/Customer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/BankTeller/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/BankTeller/Generators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/BankTeller/Teller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/BankTeller/Teller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/CargoShip19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/Deck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/Item$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/Office.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/Shelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Cargoship19/StorageArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Ex20/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Ex20/A3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Ex20/Ex20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/Ex20/G.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Coffee/Americano.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Coffee/Breve.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Coffee/Cappuccino.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Coffee/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Coffee/Latte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Coffee/Mocha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/CoffeeGenerator/CoffeeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/CoffeeGenerator/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/Fibonacci/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/New11/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/New11/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/New11/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/New11/New.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/New11/New11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/RandomList/RandomList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Generics/TypeCheck/TypeCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/GetLowestHighest/GetLowestHighest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Controller13/Controller13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex14/Ex14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex15/Ex15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex17/Ex17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex17/Gerbil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex18/Ex18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex18/Gerbil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex19/Ex19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex19/Gerbil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex20/Ex20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex24/Ex24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Ex25/Ex25.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Statistics23/Statistics23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/TextFile/TextFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/UniqueWords21/UniqueWords21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/UniqueWords22/UniqueWords22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/UniqueWords22/Word.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/HoldingObject/Ex10/Vowels20/Vowels20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex14/Ex14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex14/ExplicitStaticEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex14/Go.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex15/Ex15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex15/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex16/Ex16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex17/Ex17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex17/StringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex19/Varags1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex2/TestConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex2/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex20/Vargags2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex21/Currency$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex21/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex21/EnumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex21/Money.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex3/Tester3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/Ex5/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/OverloadedConstructors/Doc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Initialization/Ex1/OverloadedConstructors/OverloadedConstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Derived6/Derived6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex13/Ex13$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex13/Ex13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex13/Ex13Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex15/Ex15$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex15/Ex15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex15/One.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex19/Ex19$Ex19Inner$Ex19InnerInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex19/Ex19$Ex19Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex19/Ex19$Ex19Nested$Ex19NestedNested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex19/Ex19$Ex19Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex19/Ex19.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex7/Ex7$1Ex7Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex7/Ex7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex7/Ex7Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex7Base/Ex7Base$Ex7Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex7Base/Ex7Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex9/Ex9$1Ex9Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex9/Ex9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Ex9/Ex9Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/CoinToss$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/CoinToss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/DiceToss$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/DiceToss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/GameFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/GameTest16/GameTest16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/DangerousMonster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/DragonZilla.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/HorrorShow$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/HorrorShow$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/HorrorShow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/Lethal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/Vampire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/HorrorShow/VeryBadVampire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/InheritInner/InheritInner$SecondInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/InheritInner/InheritInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/InheritInner/WithInner$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/InheritInner/WithInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Outer12/Outer12$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Outer12/Outer12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Outer12/Outer12Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Outer6/Outer6$Inner6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Innerclasses/A/Outer6/Outer6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/AdaptedRandomChars16/AdaptedRandomChars16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/AdaptedRandomChars16/RandomChars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/BiCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/Cycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/CycleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/CycleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/ImplementationBicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/ImplementationTricycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/ImplementationUnicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/Tricycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/CycleTest/Unicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Dad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Ex3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Ex5/Ex5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Ex5Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/CoinToss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/DiceToss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/GameFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/GameTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/ImplementationCoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/GameTest/ImplementationDice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Brass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Instrument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Music5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Percussion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Stringed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Wind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Music5/Woodwind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Interfaces/Ex3/Son.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/META-INF/ECKEL.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/ArrayReverser/ArrayReverser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/ArrayReverser/ArrayReverser.java___jb_tmp___" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/BUILDING/Building.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/BankDeposit/BankDeposit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/CenturyFromYear/CenturyFromYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/CombineArrays/CombineArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/CountOddPositions/CountOddPositions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/CreditCard/CreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Cuboid/Cuboid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Divisible/Divisible.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/EmsAndEns/EmsAndEns.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/FindSmallestElement/FindSmallestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/ForbbidenLetter/ForrbidenLetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/GetEvenNumbers/GetEvenNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/GetSuccessRate/GetSuccessRate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/HasNonLetters/HasNonLetters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/IndexOfSymbol/IndexOfSymbol.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/LongestWord/LongestWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/MakeAbbr/MakeAbbr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Max/Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/MiddleCharacter/MiddleCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/RemoveChars/RemoveChars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Robot/FactoryStorage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Robot/Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/StringCheck/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/StringLastCharacter/StringLastCharacter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/StudentGrade/StudentGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/Test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/TestArray/TestArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/TwiceAsOld/TwiceAsOld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Mate/Book/TwiceAsOld/TwiceAsOld.java___jb_tmp___" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$BImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$BImp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$CImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$CImp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$DImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A$DImp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/E$G.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/E$H.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces$BImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces$CImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces$EGImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces$EImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces$EImp2$EG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces$EImp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/NestingInterfaces/NestingInterfaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/CardNumber/CardNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/EX1/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex10/CommandArgTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex12/DocTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex13/Documentation1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex13_2/Documentation2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex13_3/Documentation3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex3/ATypeName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex6/Ex6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex7/Incrementable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex8/Incrementable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex8/OneStaticTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex8/StaticTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/ObjectsChapter1/Ex9/Wrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/BooleanCompar/BooleanComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Candidate/Candidate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex14/Comparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex2/Assignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex2/FloatTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex3/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex3/TestFigure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex4/Speed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Ex4/SpeedTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Income/Income.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/MonthCase/MonthCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/PrintTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/Test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Operators/Ex1/TheBiggestNumber/TheBiggestNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Bicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Biking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Cycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Ex10/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Ex10/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Ex10/Ex10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Brass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Instrument.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Music6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Note.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Percussion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Playable/Playable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Stringed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Wind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Music6/Woodwind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/PolyConstructors15/Glyph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/PolyConstructors15/PolyConstructors15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/PolyConstructors15/RectangularGlyph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/PolyConstructors15/RoundGlyph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/ReferenceCounting13/Composing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/ReferenceCounting13/ReferenceCounting13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/ReferenceCounting13/Shared.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Characteristic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Description.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Mouse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/RandomRodentGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Rat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Rodent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Rodent12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Rodent12/Squirrel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Bread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/FastFood/FastFood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Lettuce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Lunch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Meal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Pickle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/PortableLunch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Sandwich/Sandwich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Shapes/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Shapes/RandomShapeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Shapes/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Shapes/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Shapes/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Shapes/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Transmogrify16/AlertStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Transmogrify16/HighAlert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Transmogrify16/MaximumAlert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Transmogrify16/NormalAlert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Transmogrify16/Starship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Transmogrify16/Transmogrify16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Tricycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Polymorphism/Ex1/Unicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Print/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/CanFly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Ex10/Ex10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Ex8/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Ex8/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Ex8/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Ex8/Ex8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/FancyToy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/HasBatteries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shapes/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shapes/Rhomboid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shapes/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shapes/Shapes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shapes/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shapes/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Shoots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/SweetShop7/Candy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/SweetShop7/Cookie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/SweetShop7/Gum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/SweetShop7/SweetShop7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Toy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/ToyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/RTTI/ToyTest/Waterproof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/BasicDevice/BasicDevice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/CADSystem/CADSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/CADSystem/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/CADSystem/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/CADSystem/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/CADSystem/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Cartoon/Art.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Cartoon/Cartoon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Cartoon/Drawing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Chess/BoardGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Chess/Chess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Chess/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Cleanser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Detergent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Device/Device.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Device/DeviceFail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Difference/Difference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Difference/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/E/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/E/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/E/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/E/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/E/E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex11/Cleanser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex11/Detergent1Delegation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex4/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex4/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex4/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex4/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex4/E.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex5/A1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex5/B1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex5/C1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex8/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex8/Derive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex9/Component1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex9/Component2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex9/Component3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex9/Root.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Ex9/Stem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Frog/Amphibian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Frog/Frog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Scarab/Beetle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Scarab/Insect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Scarab/Scarab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Reusing/Detergent/Soap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Strings/Ex6/Ex6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Strings/Ex9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Strings/Sentence7/Sentence7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Strings/TestReg/TestReg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Strings/TestRegularExpression/TestRegularExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/Strings/TestString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex12/DocTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex12/class-use/DocTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex12/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex12/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex12/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex12/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13/Documentation1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13/class-use/Documentation1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_2/Documentation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_2/class-use/Documentation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_2/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_2/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_2/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_2/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_3/Documentation3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_3/class-use/Documentation3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_3/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_3/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_3/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/ObjectsChapter1/Ex13_3/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ECKEL/javadocs/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/ConnectionManager/ConnectionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Controller/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex1_1/Ex1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex2/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex3/TestDebug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex5/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex5/TestAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/Ex6/ProtectedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/GreenhouseController/GreenhouseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/GreenhouseController/GreenhouseControls25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/GreenhouseControls/GreenhouseControls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/PrintTest/PrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/debug/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessControl/Ex1/debugoff/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWar/RemoveCharacter/Accum/Accum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWar/RemoveCharacter/FindOutlier/FindOutlier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWar/RemoveCharacter/PhoneNumber/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWar/RemoveCharacter/QuarterOfTheYear/QuarterOfTheYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWar/RemoveCharacter/RemoveCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodeWar/RemoveCharacter/ReverseArray/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/BreakAndContinue/BreakAndContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/Credit/Credit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/Drinks/Drinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/Ex4/Primes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/Ex6/IfElse3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/Ex7/SwitchCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/Ex9/FibonacciEx9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/WhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controlling/fizzbuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountDivisor/CountDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/Ex10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/Ex21/Ex21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/Ex25/Ex25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/Ex26/Ex26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/Ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/Frog17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/LostMesageFound19/LostMessageFound19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorHandling/StormyInning20/StormyInning20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/BankTeller/BankTeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/BankTeller/Generators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Cargoship19/CargoShip19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Ex20/Ex20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Coffee/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Coffee/Breve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Coffee/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Coffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Coffee/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Coffee/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/CoffeeGenerator/CoffeeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/CoffeeGenerator/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/New11/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/New11/New11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/RandomList/RandomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/TypeCheck/TypeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetLowestHighest/GetLowestHighest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Controller13/Controller13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex14/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex15/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex17/Ex17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex18/Ex18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex19/Ex19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex20/Ex20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex24/Ex24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Ex25/Ex25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Statistics23/Statistics23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/TextFile/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/UniqueWords21/UniqueWords21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/UniqueWords22/UniqueWords22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoldingObject/Ex10/Vowels20/Vowels20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex14/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex14/ExplicitStaticEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex15/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex16/Ex16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex17/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex19/Varags1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex2/TestConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex20/Vargags2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex21/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex21/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex21/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex3/Tester3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/Ex5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Initialization/Ex1/OverloadedConstructors/OverloadedConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Derived6/Derived6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Ex13/Ex13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Ex15/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Ex19/Ex19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Ex7/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Ex7Base/Ex7Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Ex9/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/GameTest16/GameTest16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/HorrorShow/HorrorShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/InheritInner/InheritInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Outer12/Outer12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Innerclasses/A/Outer6/Outer6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/AdaptedRandomChars16/AdaptedRandomChars16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/CycleTest/CycleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/Ex5/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/Ex5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/GameTest/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Ex3/Music5/Music5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/ArrayReverser/ArrayReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/BUILDING/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/BankDeposit/BankDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/CenturyFromYear/CenturyFromYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/CombineArrays/CombineArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/CountOddPositions/CountOddPositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/CreditCard/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Cuboid/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Divisible/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/EmsAndEns/EmsAndEns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/FindSmallestElement/FindSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/ForbbidenLetter/ForrbidenLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/GetEvenNumbers/GetEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/GetSuccessRate/GetSuccessRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/HasNonLetters/HasNonLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/IndexOfSymbol/IndexOfSymbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/LongestWord/LongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/MakeAbbr/MakeAbbr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Max/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/MiddleCharacter/MiddleCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/RemoveChars/RemoveChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Robot/FactoryStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Robot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/StringCheck/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/StringLastCharacter/StringLastCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/StudentGrade/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/TestArray/TestArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mate/Book/TwiceAsOld/TwiceAsOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestingInterfaces/NestingInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/CardNumber/CardNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/EX1/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex10/CommandArgTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex12/DocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex13/Documentation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex13_2/Documentation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex13_3/Documentation3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex3/ATypeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex6/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex7/Incrementable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex8/OneStaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectsChapter1/Ex9/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/BooleanCompar/BooleanComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Candidate/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex14/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex2/Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex2/FloatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex3/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex3/TestFigure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex4/Speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Ex4/SpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Income/Income.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/MonthCase/MonthCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/PrintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/Ex1/TheBiggestNumber/TheBiggestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Biking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Ex10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Music6/Music6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Music6/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Music6/Playable/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/PolyConstructors15/PolyConstructors15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/ReferenceCounting13/ReferenceCounting13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Rodent12/RandomRodentGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Rodent12/Rodent12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Sandwich/FastFood/FastFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Sandwich/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Shapes/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ex1/Transmogrify16/Transmogrify16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Print/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RTTI/ToyTest/Ex10/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RTTI/ToyTest/Ex8/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RTTI/ToyTest/Shapes/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RTTI/ToyTest/SweetShop7/SweetShop7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RTTI/ToyTest/ToyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/BasicDevice/BasicDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/CADSystem/CADSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Cartoon/Cartoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Chess/Chess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Detergent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Device/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Difference/Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/E/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Ex11/Detergent1Delegation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Ex4/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Ex5/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Ex8/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Ex8/Derive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Ex9/Stem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Frog/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reusing/Detergent/Scarab/Scarab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Ex6/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Sentence7/Sentence7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/TestReg/TestReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/TestRegularExpression/TestRegularExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/TestRegularExpression/TestRegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex12/DocTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex12/class-use/DocTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex12/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex12/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex12/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex12/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13/Documentation1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13/class-use/Documentation1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_2/Documentation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_2/class-use/Documentation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_2/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_2/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_2/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_2/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_3/Documentation3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_3/class-use/Documentation3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_3/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_3/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_3/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/ObjectsChapter1/Ex13_3/package-use.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javadocs/stylesheet.css" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +800,7 @@
         <entry file="file://$PROJECT_DIR$/src/Mate/Book/TwiceAsOld/TwiceAsOld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -64,7 +808,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mate/Book/FindSmallestElement/FindSmallestElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="550">
               <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
             </state>
           </provider>
@@ -73,19 +817,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mate/Book/MakeAbbr/MakeAbbr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="50">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Mate/Book/ArrayReverser/ArrayReverser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="391">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo/history/v03/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,6 +865,9 @@
     <dirStrings>
       <dir>D:\javatests\ECKEL\src\Generics\RandomList</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -187,6 +944,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ECKEL" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ECKEL" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="ECKEL" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="ECKEL" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +970,30 @@
             <path>
               <item name="ECKEL" type="b2602c69:ProjectViewProjectNode" />
               <item name="ECKEL" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECKEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECKEL" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="history" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECKEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECKEL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECKEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECKEL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ECKEL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ECKEL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ECKEL" type="b2602c69:ProjectViewProjectNode" />
@@ -243,26 +1039,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="ECKEL" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ECKEL" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="ECKEL" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="ECKEL" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649096723053" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649267648335" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../App" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -382,9 +1162,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22324324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22702703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +1172,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293979" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5989189" weight="0.36127508" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5989189" weight="0.3601896" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4972973" weight="0.39905548" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,23 +1274,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Strings/TestReg/TestReg.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIJ4-code-master/examples/strings/TestRegularExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/Ex9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -849,30 +1611,36 @@
     <entry file="file://$PROJECT_DIR$/src/Mate/Book/TwiceAsOld/TwiceAsOld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mate/Book/FindSmallestElement/FindSmallestElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="550">
           <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mate/Book/MakeAbbr/MakeAbbr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="50">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Mate/Book/ArrayReverser/ArrayReverser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/history/v03/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
